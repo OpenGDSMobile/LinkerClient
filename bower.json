@@ -41,7 +41,7 @@
 	"dependencies": {
 		"korGovMobileRuntime" : "3.5.0",
 		"ol3" : "ol3-bower#3.14.2",
-		"d3" : "3.5.15",
+		"d3" : "4.3.0",
 		"proj4" : "2.3.14",
 		"bootstrap" : "3.3.6"
 	}
