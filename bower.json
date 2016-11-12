@@ -21,9 +21,9 @@
 		},
 		"sources" : {
 			"ol3": [
-		        "public/bower_components/ol3/ol.js",
-		        "public/bower_components/ol3/ol-debug.js",
-		        "public/bower_components/ol3/ol.css"
+		        	"public/bower_components/ol3/ol.js",
+			        "public/bower_components/ol3/ol-debug.js",
+			        "public/bower_components/ol3/ol.css"
 			],
 			"d3": [
 				"public/bower_components/d3/d3.min.js"
@@ -35,7 +35,12 @@
 				"public/bower_components/bootstrap/dist/css/bootstrap.min.css",
 				"public/bower_components/bootstrap/dist/js/bootstrap.min.js",
 				"public/bower_components/bootstrap/fonts/glyphicons-halflings-regular.woff"
+			],
+			"bootstrap-select": [
+				"public/bower_components/bootstrap-select/dist/css/bootstrap-select.min.css",
+				"public/bower_components/bootstrap-select/dist/js/bootstrap-select.min.js"
 			]
+
 		}
 	},
 	"dependencies": {
@@ -43,6 +48,7 @@
 		"ol3" : "ol3-bower#3.14.2",
 		"d3" : "4.3.0",
 		"proj4" : "2.3.14",
-		"bootstrap" : "3.3.6"
+		"bootstrap" : "3.3.6",
+		"bootstrap-select" : "1.11.2"
 	}
 }
